@@ -1,0 +1,27 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+class Main{
+String Mensaje
+toString ()
+}
+class operacionesBasicas {
+- Int numeros
+- String cantidad1
+- String cantidad2
+- double operación
+
++ operacionesBasicas ()
++ operacionesBasicas(int numeros...)
++ get cantidad ()
++ set cantidad ()
++ getcantidad1()
++ setcantidad1()
++ getcantidad2()
++ setcantidad2()
++ toString ()
+
+
+}
+Main <|--- operacionesBasicas
+@enduml
