@@ -30,3 +30,4 @@ El resultado del cociente 8 y 2 es igual a 4
 El resultado de la división de 8 y 2 es igual a  4
 
 ## Etapa 03  Diseño de la Solucion
+![](https://github.com/dianegarcia0701/Ejercicio02/blob/main/Diagrama%20de%20clases2.png)
