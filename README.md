@@ -1,9 +1,7 @@
 # Ejercicio02
 Ejercicio 02
 ## Etapa 01  Descripcion del Problema
-Se requiere un programa en Java para calcular el resultado de la suma, diferencia, producto, módulo y cociente de dos números decimales de cualquier longitud
-
-
+*Se requiere un programa en Java para calcular el resultado de la suma, diferencia, producto, módulo y cociente de dos números decimales de cualquier longitud*
 ## Etapa 02 Definicion de la  solucion
 
 - Entrada
